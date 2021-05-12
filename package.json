@@ -17,7 +17,7 @@
   "dependencies": {
     "@metamask/safe-event-emitter": "^2.0.0",
     "async-mutex": "^0.2.6",
-    "eth-json-rpc-middleware": "github:paulbarclay/eth-json-rpc-middleware",
+    "eth-json-rpc-middleware": "github:paulbarclay/eth-json-rpc-middleware#e0577c85bd4df097464c43c192c11bce69aa7ea5",
     "eth-query": "^2.1.2",
     "json-rpc-engine": "^6.1.0",
     "pify": "^5.0.0"
